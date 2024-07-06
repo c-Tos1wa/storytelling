@@ -31,10 +31,10 @@ poetry install
 
 ### Ferramentas
 
+* [FPDF](http://www.fpdf.org/)
 * [Matplotlib](https://matplotlib.org/stable/)
 * [Pandas](https://pandas.pydata.org/)
 * [Seaborn](https://seaborn.pydata.org/index.html)
-* [FPDF](http://www.fpdf.org/)
 
 ### Autor(a)
 
