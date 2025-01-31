@@ -2,7 +2,8 @@
 
 ### Objetivo
 
-Estudar storytelling com dados retirados do Ministério da Fazenda.
+Estudo de storytelling com dados retirados do Ministério da Fazenda.
+
 Fonte utilizada: <https://dados.gov.br/dados/conjuntos-dados/operacoes-copem>
 
 ### Preparação do ambiente
