@@ -1,4 +1,4 @@
-# Storytelling de dados de empréstimos do Ministério da Fazenda do Brasil
+# Storytelling de dados de empréstimos de estados e municípios brasileiros
 
 ### Objetivo
 
