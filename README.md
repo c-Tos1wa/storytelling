@@ -1,10 +1,9 @@
-# Storytelling com dados de empréstimos feitos por munícipios retirados do Ministério da Fazenda
+# Storytelling de dados de empréstimos do Ministério da Fazenda do Brasil
 
 ### Objetivo
 
-Estudo de storytelling com dados retirados do Ministério da Fazenda.
-
-Fonte utilizada: <https://dados.gov.br/dados/conjuntos-dados/operacoes-copem>
+Este repositório público é a análise de empréstimos feito por estados e municípios brasileiros retirados da plataforma GOV.BR e disponibilizados pelo Ministério da Fazenda. A fonte utilizada para retirada destes dados é <https://dados.gov.br/dados/conjuntos-dados/operacoes-copem>.
+Com esta análise, vê-se aprender sobre o storytelling e como melhorar apresentações e relatórios de dados para o público-alvo desejado.
 
 ### Preparação do ambiente
 
