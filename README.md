@@ -3,7 +3,7 @@
 ### Objetivo
 
 Este repositório público é a análise de empréstimos feito por estados e municípios brasileiros retirados da plataforma GOV.BR e disponibilizados pelo Ministério da Fazenda. A fonte utilizada para retirada destes dados é <https://dados.gov.br/dados/conjuntos-dados/operacoes-copem>.
-Com esta análise, vê-se aprender sobre o storytelling e como melhorar apresentações e relatórios de dados para o público-alvo desejado.
+Com esta análise, estima-se aprender sobre o storytelling e como melhorar apresentações e relatórios de dados para o público-alvo desejado.
 
 ### Preparação do ambiente
 
@@ -29,18 +29,35 @@ Após o clone, dentro da pasta criada
 poetry install
 ```
 
+### Acessando o ambiente
+
+1. Ativação do ambiente
+
+Após a instalação, ainda dentro da pasta criada
+
+```
+eval $(poetry env activate)
+```
+
+2. Acessar Jupyter Lab
+
+```
+poetry run jupyter-lab
+```
+
 ### Ferramentas
 
-* [FPDF](http://www.fpdf.org/)
-* [Matplotlib](https://matplotlib.org/stable/)
-* [Pandas](https://pandas.pydata.org/)
-* [Seaborn](https://seaborn.pydata.org/index.html)
+* [FPDF](http://www.fpdf.org/): criação de pdf de forma gratuita
+* [Matplotlib](https://matplotlib.org/stable/): biblioteca para visualização gráfica de dados
+* [Pandas](https://pandas.pydata.org/): ferramenta para manipulação de dados
+* [Seaborn](https://seaborn.pydata.org/index.html): análise estatística e visualização de dados
 
-### Autor(a)
+### Autor(a) Principal
 
 * **Cristina T. Iwassaki**
 
-### Contatos
+### Redes Sociais
+
 * [Github](https://github.com/c-Tos1wa)
 * [Linkedin](https://www.linkedin.com/in/cristina-iwassaki/)
 
